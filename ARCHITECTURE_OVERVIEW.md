@@ -1,6 +1,6 @@
 # ARCHITECTURE OVERVIEW
 
-The __ARTIFACT__ is a Spring Boot auto-configuration library structured around a clear separation between public API and private implementation.
+The __forgepack-ARTIFACT__ is a Spring Boot auto-configuration library structured around a clear separation between public API and private implementation.
 
 ## 1. PACKAGE STRUCTURE
 
